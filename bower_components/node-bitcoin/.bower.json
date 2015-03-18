@@ -1,0 +1,15 @@
+{
+  "name": "node-bitcoin",
+  "homepage": "https://github.com/freewil/node-bitcoin",
+  "version": "2.3.0",
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.0",
+    "commit": "545e81691e835c311c5c02bb6250e06c111458eb"
+  },
+  "_source": "git://github.com/freewil/node-bitcoin.git",
+  "_target": "~2.3.0",
+  "_originalSource": "git://github.com/freewil/node-bitcoin",
+  "_direct": true
+}

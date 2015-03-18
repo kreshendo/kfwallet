@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kreshendo <thekreshendo@gmail.com>",
-  "license": "The Unlicense",
+  "license": "BSD-2-Clause",
   "dependencies": {}
 }

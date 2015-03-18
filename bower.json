@@ -1,0 +1,24 @@
+{
+  "name": "kfwallet",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kreshendo/krypticfreestyles-wallet",
+  "authors": [
+    "kreshendo <thekreshendo@gmail.com>"
+  ],
+  "description": "A multisig wallet manager for the Kryptic Freestyles web series",
+  "license": "The Unlicense",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bitcore-ecies": "~0.10.0",
+    "bitcore": "~0.11.4",
+    "node-bitcoin": "git://github.com/freewil/node-bitcoin#~2.3.0"
+  }
+}

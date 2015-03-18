@@ -1,0 +1,30 @@
+{
+  "name": "bitcoin",
+  "description": "Communicate with bitcoind via JSON-RPC",
+  "version": "2.3.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "bitcoin",
+    "rpc"
+  ],
+  "author": "Bill Casarin <bill@casarin.ca> (jb55.com)",
+  "contributors": [
+    "Sean Lavine <sean@eternalrise.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "clone": "^0.1.18",
+    "mocha": "^2.1.0"
+  },
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/freewil/node-bitcoin.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
